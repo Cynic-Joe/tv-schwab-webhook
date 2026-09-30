@@ -1,0 +1,1 @@
+{"_action可选":"buy | sell | close(close=按当前持仓数量全平)","_webhook_url":"https://你的服务域名/webhook","_下单数量二选一":"quantity=按股数 | dollars=按金额自动折算股数","_说明":"把下面 JSON(去掉_说明行)粘贴到 TradingView alert 的 Message 文本框, 并勾选 Webhook URL","action":"buy","quantity":5,"secret":"换成你自己的WEBHOOK_SECRET","symbol":"{{ticker}}"}
